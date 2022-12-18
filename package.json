@@ -2,11 +2,17 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Cristian Fernando Dávila",
 	"description": "This is a example project for freecodecamp platform",
-	"keywords": ["freecodecamp", "javascript", "learn", "node"],
-	"version": "1.0.0",
+	"keywords": [
+		"freecodecamp",
+		"javascript",
+		"learn",
+		"node"
+	],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
