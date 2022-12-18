@@ -3,6 +3,7 @@
 	"author": "Cristian Fernando Dávila",
 	"description": "This is a example project for freecodecamp platform",
 	"keywords": ["freecodecamp", "javascript", "learn", "node"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
